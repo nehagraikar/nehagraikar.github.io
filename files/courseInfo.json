@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "title": "A",
         "priceBefore": 500,
         "priceAfter": 450,
@@ -7,6 +8,7 @@
         "imageName": "swiftUI"
     },
     {
+        "id": 2,
         "title": "B",
         "priceBefore": 500,
         "priceAfter": 450,
@@ -14,6 +16,7 @@
         "imageName": "swiftUI"
     },
     {
+        "id": 3,
         "title": "C",
         "priceBefore": 500,
         "priceAfter": 450,
@@ -21,6 +24,7 @@
         "imageName": "swiftUI"
     },
     {
+        "id": 4,
         "title": "D",
         "priceBefore": 500,
         "priceAfter": 450,
@@ -28,6 +32,7 @@
         "imageName": "swiftUI"
     },
     {
+        "id": 5,
         "title": "E",
         "priceBefore": 500,
         "priceAfter": 450,
