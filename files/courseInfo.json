@@ -4,7 +4,7 @@
         "title": "A",
         "priceBefore": 500.00,
         "priceAfter": 450.00,
-        "description": "AAAAAAAAAAA"
+        "description": "AAAAAAAAAAA",
         "imageName": "swiftUI"
     },
     {
@@ -12,7 +12,7 @@
         "title": "B",
         "priceBefore": 500.00,
         "priceAfter": 450.00,
-        "description": "BBBBBBB"
+        "description": "BBBBBBB",
         "imageName": "swiftUI"
     },
     {
@@ -20,7 +20,7 @@
         "title": "C",
         "priceBefore": 500.00,
         "priceAfter": 450.00,
-        "description": "CCCCC"
+        "description": "CCCCC",
         "imageName": "swiftUI"
     },
     {
@@ -28,7 +28,7 @@
         "title": "D",
         "priceBefore": 500.00,
         "priceAfter": 450.00,
-        "description": "DDDDDDD"
+        "description": "DDDDDDD",
         "imageName": "swiftUI"
     },
     {
@@ -36,7 +36,7 @@
         "title": "E",
         "priceBefore": 500.00,
         "priceAfter": 450.00,
-        "description": "EEEEEES"
+        "description": "EEEEEES",
         "imageName": "swiftUI"
     },
 ]
