@@ -1,42 +1,50 @@
 [
     {
         "id": 1,
-        "title": "A",
+        "title": "SwiftUI",
         "priceBefore": 500.00,
         "priceAfter": 450.00,
-        "description": "AAAAAAAAAAA",
+        "description": "SwiftUI helps you build great-looking apps across all Apple platforms with the power of Swift — and as little code as possible. ",
         "imageName": "swiftUI"
     },
     {
         "id": 2,
-        "title": "B",
-        "priceBefore": 500.00,
-        "priceAfter": 450.00,
-        "description": "BBBBBBB",
-        "imageName": "swiftUI"
+        "title": "Angular",
+        "priceBefore": 600.00,
+        "priceAfter": 550.00,
+        "description": "Angular is a platform for building mobile and desktop web applications. Join the community of millions of developers who build compelling user interfaces",
+        "imageName": "angular"
     },
     {
         "id": 3,
-        "title": "C",
+        "title": "React",
         "priceBefore": 500.00,
         "priceAfter": 450.00,
-        "description": "CCCCC",
-        "imageName": "swiftUI"
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. ",
+        "imageName": "react"
     },
     {
         "id": 4,
-        "title": "D",
-        "priceBefore": 500.00,
-        "priceAfter": 450.00,
-        "description": "DDDDDDD",
-        "imageName": "swiftUI"
+        "title": "Java",
+        "priceBefore": 800.00,
+        "priceAfter": 650.00,
+        "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+        "imageName": "java"
     },
     {
         "id": 5,
-        "title": "E",
+        "title": "C++",
         "priceBefore": 500.00,
         "priceAfter": 450.00,
-        "description": "EEEEEES",
-        "imageName": "swiftUI"
+        "description": "C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes",
+        "imageName": "cpp"
+    },
+    {
+        "id": 6,
+        "title": "Python",
+        "priceBefore": 1000.00,
+        "priceAfter": 800.00,
+        "description": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation.",
+        "imageName": "python"
     },
 ]
