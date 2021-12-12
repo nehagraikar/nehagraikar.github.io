@@ -2,40 +2,40 @@
     {
         "id": 1,
         "title": "A",
-        "priceBefore": 500,
-        "priceAfter": 450,
+        "priceBefore": 500.00,
+        "priceAfter": 450.00,
         "description": "AAAAAAAAAAA"
         "imageName": "swiftUI"
     },
     {
         "id": 2,
         "title": "B",
-        "priceBefore": 500,
-        "priceAfter": 450,
+        "priceBefore": 500.00,
+        "priceAfter": 450.00,
         "description": "BBBBBBB"
         "imageName": "swiftUI"
     },
     {
         "id": 3,
         "title": "C",
-        "priceBefore": 500,
-        "priceAfter": 450,
+        "priceBefore": 500.00,
+        "priceAfter": 450.00,
         "description": "CCCCC"
         "imageName": "swiftUI"
     },
     {
         "id": 4,
         "title": "D",
-        "priceBefore": 500,
-        "priceAfter": 450,
+        "priceBefore": 500.00,
+        "priceAfter": 450.00,
         "description": "DDDDDDD"
         "imageName": "swiftUI"
     },
     {
         "id": 5,
         "title": "E",
-        "priceBefore": 500,
-        "priceAfter": 450,
+        "priceBefore": 500.00,
+        "priceAfter": 450.00,
         "description": "EEEEEES"
         "imageName": "swiftUI"
     },
